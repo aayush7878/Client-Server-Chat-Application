@@ -7,9 +7,9 @@ using namespace std;
 #pragma comment(lib, "ws2_32.lib")
 
 /*
-    //initialize winsock library -> Done;
-    //create the socket -> Done;
-    //get ip and port -> Done;
+    //initialize winsock library 
+    //create the socket 
+    //get ip and port
     //bind the ip/port with the socket
     //listen on the socket
     //accept
